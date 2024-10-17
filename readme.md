@@ -45,6 +45,7 @@
     - Utilizando o react-native-maps, procure uma API que forneça de forma gratuita a Letitude e Longitude de um local desejado.
     - Imagine que você está no aplicativo Uber, e acabou de digitar a sua cidade.
     - A API deverá retornar os dados de sua cidade, e ela deverá ser marcada no mapa com o componente *Marker*
+    - Entrega por e-mail até dia 17/10/2024 às 21h
 
 ## Aula 11 - 17/10/2024
 - Entrega de trabalho API Mapas
