@@ -1,0 +1,17 @@
+1) Adicionar ao CARD um botao chamado detalhes.
+    Quando o usuario clicar em Detalhes, item 2
+
+2) O Componente detalhes deverá receber o Personagem 
+desejado, com base nesta informação traga da API o
+detalhe do personagem comn as seguintes informações
+
+name, status, espície (Em ingles)
+gender (sexo), o earth (planeta)
+imagem (no máximo 3), e a lista de episódios que ele aparece
+
+https://rickandmortyapi.com/documentation/#get-a-single-character
+
+3) Usar cards para ficar mais bonita a tela
+
+4) Na tela Home adicionar 9 botoes, para buscar as outras 9 páginas 
+da API utilizada em HOME
