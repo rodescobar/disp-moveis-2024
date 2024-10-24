@@ -49,3 +49,25 @@
 
 ## Aula 11 - 17/10/2024
 - Entrega de trabalho API Mapas
+
+## Aula 12 - 24/10/2024
+- Trabalho avaliativo para entrega no dia da avaliação Novembro/2024
+- Entrege deverá ser feita via repositório git (enviar o link por e-mail)
+- A avaliação semestral serão perguntas sobre o trabalho
+
+- **Descrição**
+  - Utilizando a documentação para acesso ao BackEnd disponivel [aqui](https://github.com/rodescobar/backendAula), faça
+    - Crie uma aplicação em React que possa trabalhar diretamente com o BackEnd informado.
+    - Sua aplicação deverá ter as seguintes telas:
+      - Registrar usuário
+      - Login
+      - Listar produtos (Área segura)
+      - Buscar produtos que possuam o nome informado (Área segura)
+      - Incluir produtos (Área segura)
+      - Alterar produtos (Área segura)
+      - Excluir produtos (Área segura)
+  - Toda a documentação para acesso ao banco, envio e recebimento dos dados estão disponíveis no link acima
+  - Utilize como login 
+    - usuário: <SEU_RA>
+    - senha: <SEU_RA>
+  - Podem ser criados usuários de testes
